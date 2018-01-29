@@ -15,3 +15,11 @@ had probems with path variables, installed older version of java SDK and it all 
 5) npm install -g react-native-cli
 5.5 ) then goto project base fodler and run react-native init albums
  $ react-native init newProj
+
+6) config git for remote repo sync.
+ git status
+ git add <can use . for everythign > - moves them to staging area 
+ git config --global user.name 'Richard Duggan'
+ git config --global user.email 'rdugganrduggan@yahoo.com.au'
+Create a new repo on git hub and when you click create the system gives you commands to do remote push 
+add a readme.md file 
