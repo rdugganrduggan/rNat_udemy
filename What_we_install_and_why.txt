@@ -23,3 +23,5 @@ had probems with path variables, installed older version of java SDK and it all 
  git config --global user.email 'rdugganrduggan@yahoo.com.au'
 Create a new repo on git hub and when you click create the system gives you commands to do remote push 
 add a readme.md file 
+
+7 ) goto android studio - open existing project - navigate to the anddroid subfolder of the folder you ran react-native init newProj
